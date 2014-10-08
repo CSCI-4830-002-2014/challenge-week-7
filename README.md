@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alex Tsankov
 
 # How many points have you earned?
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-using_data_to_solve_a_social_problem)
+[Using Big Data For Social Good](http://www.forbes.com/sites/ashoka/2014/08/27/using-big-data-for-social-good/)
 
 ## Explain why you found the project interesting. (8 points)
 
-fill-in-your-answer
+I think the idea of using social data to predict whether philanthropic organizations will be effective might be useful to potential donors. 
 
 # GDELT (I) (5 points x 6 + 20 points x 3 = 90 points)
 
@@ -32,19 +32,21 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](cp1.png)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
-fill-in-your-answer
-
+Some of the questions the DB could provide insight for:
+- What are some areas that have higher than normal amounts of conflict. 
+- What are some of the most prevalent actors in the world. 
+- What are the realtions between individuals and different countries. 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](cp3.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](cp4.png)
 
 ### 5a (5 points)
 
