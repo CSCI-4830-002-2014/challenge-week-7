@@ -50,20 +50,20 @@ Some of the questions the DB could provide insight for:
 
 ### 5a (5 points)
 
-![image](image.png?raw=true)
+![image](cp5.png)
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
-fill-in-your-answer
+These events seem to be missing geographic data because 
 
 ## Challenges
 
 ### 1 (20 points)
-{{one-paragraph-discussion-of-your-answer}}
+We can check to see if the climate change march had any impact by seeing if there is an uptick in the number of climate change related events before and after the marches. This is indicitive of an increase in awareness. We can also check to see if there is a rise in climate change related events in other countries besides the US in the aftermath of the marches. 
 
 ### 2 (20 points)
 
-![image](image.png?raw=true)
+![image](ch2.png)
 
 ### 3 (20 points)
 
