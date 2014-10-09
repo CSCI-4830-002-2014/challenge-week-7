@@ -4,7 +4,7 @@ write-your-name
 
 # How many points have you earned?
 
-15/100
+40/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -57,7 +57,8 @@ fill-in-your-answer
 ## Challenges
 
 ### 1 (20 points)
-{{one-paragraph-discussion-of-your-answer}}
+
+In order to see if the marches truly had an impact on generating action against Climate Change, the data could prove if the marches inspired other major events related to tackling climate change and the impacts of those events for good or for ill. The data can show the impact of marches themselves. You could use the GDELT data specifically to prove this by looking at the impact of the marches themselves using the Goldstein scale. You can also see if the marches were the roots of other events, and then look up the impact of those child events according to the Goldstein scale. 
 
 ### 2 (20 points)
 
