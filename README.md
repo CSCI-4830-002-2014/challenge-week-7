@@ -36,7 +36,7 @@ I thought that it was interesting that they could gather data from studies done 
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
-fill-in-your-answer
+So many questions. It can answer whether the world, or certain parts of the world, are becoming more or less stable based on the Goldstein scale. It can can answer what the impact certain events had (for good or for ill). It can also label who the targets are for insurgent activity. 
 
 ### 3 (5 points)
 
