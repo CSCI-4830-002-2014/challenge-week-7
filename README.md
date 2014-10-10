@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Brian Newsom
 
 # How many points have you earned?
 
@@ -32,7 +32,7 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](cp1.png?raw=true)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
