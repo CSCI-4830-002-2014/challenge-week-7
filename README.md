@@ -30,11 +30,10 @@ Laptops have never yielded enough screen space for partner programming to be com
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/oQTEhao.png)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
-
-fill-in-your-answer
+Questions pertaining to events. We can answer "What day world events occurred" or "Where did the event occer", or "Who were involved in an event". We can also answer questions about the affiliations of the actors involved in the event. Such as religious or racial associations.
 
 ### 3 (5 points)
 
