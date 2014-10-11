@@ -4,17 +4,17 @@ Alex Tsankov
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+2.5
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Getting the headers into the CSV file. 
 
 # Show and tell (10 points)
 
@@ -24,7 +24,7 @@ fill-in-your-answer
 
 ## Explain why you found the project interesting. (8 points)
 
-I think the idea of using social data to predict whether philanthropic organizations will be effective might be useful to potential donors. 
+I think the idea of using actual data to predict whether philanthropic organizations will be effective might be useful for encouraging potential donors. 
 
 # GDELT (I) (5 points x 6 + 20 points x 3 = 90 points)
 
@@ -54,12 +54,12 @@ Some of the questions the DB could provide insight for:
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
-These events seem to be missing geographic data because 
+These events seem to be missing geographic data becasue of errors in the input system. With as much analysis as the GDELT project is doing, there is bound to be some mistakes occassionally with the parser or inputting into the database. 
 
 ## Challenges
 
 ### 1 (20 points)
-We can check to see if the climate change march had any impact by seeing if there is an uptick in the number of climate change related events before and after the marches. This is indicitive of an increase in awareness. We can also check to see if there is a rise in climate change related events in other countries besides the US in the aftermath of the marches. 
+We can check to see if the climate change march had any impact by seeing if there is an uptick in the number of environmentals related events and by analyzing the general tone of the articles before and after the marches. This is indicitive of an increase in positive awareness. We can also check to see if there is a rise in climate change related events in other countries besides the US in the aftermath of the marches. 
 
 ### 2 (20 points)
 
@@ -67,6 +67,6 @@ We can check to see if the climate change march had any impact by seeing if ther
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
+![image](ch3.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+Even with a relatively small dataset of just 5 dates, we can see that there was an increase in awareness with Environemtal events after 9/23, and an increased positivity of the articles, as seen with the deeper green color. Unfortunately, this interest seemed to fizzle out by 10/5, with very few articles about environmental issues in any place outside of South America. 
