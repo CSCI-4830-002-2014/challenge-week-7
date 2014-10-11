@@ -1,10 +1,9 @@
 # Name
-
-write-your-name
+Dawson Botsford
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -20,11 +19,10 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-using_data_to_solve_a_social_problem)
+[Two-screen laptops: complete overkill, or completely logical?](http://www.pcauthority.com.au/News/264208,two-screen-laptops-complete-overkill-or-completely-logical.aspx)
 
 ## Explain why you found the project interesting. (8 points)
-
-fill-in-your-answer
+Laptops have never yielded enough screen space for partner programming to be comfortable. Two-screen laptops == problem solved. I love laptops, but their screens are always too small.
 
 # GDELT (I) (5 points x 6 + 20 points x 3 = 90 points)
 
