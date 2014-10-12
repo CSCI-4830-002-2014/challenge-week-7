@@ -4,7 +4,7 @@ write-your-name
 
 # How many points have you earned?
 
-40/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -61,6 +61,8 @@ These most common events that have the highest null values are demands, ues of u
 In order to see if the marches truly had an impact on generating action against Climate Change, the data could prove if the marches inspired other major events related to tackling climate change and the impacts of those events for good or for ill. The data can show the impact of marches themselves. You could use the GDELT data specifically to prove this by looking at the impact of the marches themselves using the Goldstein scale. 
 
 ### 2 (20 points)
+
+Just a disclaimer, I used bash. 
 
 ![image](C7Challenge2.png?raw=true)
 
