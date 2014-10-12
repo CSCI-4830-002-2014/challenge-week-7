@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Adrian Chen
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-using_data_to_solve_a_social_problem)
+[Keeping it Cool: Using Mobile Technology to Preserve Vaccines](http://www.datakind.org/projects/keeping-it-cool-using-mobile-technology-to-preserve-vaccines/)
 
 ## Explain why you found the project interesting. (8 points)
 
-fill-in-your-answer
+I would never have thought about vaccines going bad, but I'm sure people in the healthcare business think about this. Its also a service directly helping people, which doesn't always happen.
 
 # GDELT (I) (5 points x 6 + 20 points x 3 = 90 points)
 
