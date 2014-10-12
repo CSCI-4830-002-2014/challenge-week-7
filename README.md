@@ -58,7 +58,7 @@ In order to prove if a march made an impact on the climate change legislation, w
 
 ### 2 (20 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/IqBto3d.png)
 
 ### 3 (20 points)
 
