@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Michael Fyk
 
 # How many points have you earned?
 
@@ -32,32 +32,32 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/GLziwU5.png)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
-fill-in-your-answer
+It can provide insight on the relative success of different types of social action. It can be used to predict the outcome of a conflict between various types of groups (ex. countries, protest groups, etc.)
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/PisYJA2.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/IHyDM9D.png)
 
 ### 5a (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/paxnkBH.png)
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
-fill-in-your-answer
+The top four events that are missing data, non-specific appeal, non-specific make a statement, make a visit, and host a visit probably are missing a lot of data because they are all very common and may be on smaller scales where no one keeps track of where they are. Also, making a statement or appeal does not necessarily need to occur in one specific location.
 
 ## Challenges
 
 ### 1 (20 points)
-{{one-paragraph-discussion-of-your-answer}}
+The GDELT data
 
 ### 2 (20 points)
 
