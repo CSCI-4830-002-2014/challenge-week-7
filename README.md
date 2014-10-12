@@ -30,7 +30,7 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%207/chk1.png)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
@@ -40,15 +40,15 @@ Connecting frequency
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%207/chk3.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%207/chk4.png)
 
 ### 5a (5 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%207/chk5.png)
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
@@ -61,10 +61,10 @@ We can visualize the average number of events regarding climate change and envir
 
 ### 2 (20 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%207/chl2.png)
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%207/chl3.png)
 
 As you can see, the number of articles about "Environment" has increased on the day of event and started to decrease back to where it was before the event afterwards.
