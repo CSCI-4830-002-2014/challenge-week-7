@@ -10,11 +10,11 @@ write-your-name
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+5 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Getting the headers into the file. I couldn't do it in bash, so I did it manually.
 
 # Show and tell (10 points)
 
@@ -52,20 +52,20 @@ So many questions. It can answer whether the world, or certain parts of the worl
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
-fill-in-your-answer
+These most common events that have the highest null values are demands, ues of unconventional mass violence and uses involving nuclear weapons. It may be that groups of terrorists that are said to have nuclear weapons or rockets and are issuing demands are at unknown locations. Demands are not location-specific, either.
 
 ## Challenges
 
 ### 1 (20 points)
 
-In order to see if the marches truly had an impact on generating action against Climate Change, the data could prove if the marches inspired other major events related to tackling climate change and the impacts of those events for good or for ill. The data can show the impact of marches themselves. You could use the GDELT data specifically to prove this by looking at the impact of the marches themselves using the Goldstein scale. You can also see if the marches were the roots of other events, and then look up the impact of those child events according to the Goldstein scale. 
+In order to see if the marches truly had an impact on generating action against Climate Change, the data could prove if the marches inspired other major events related to tackling climate change and the impacts of those events for good or for ill. The data can show the impact of marches themselves. You could use the GDELT data specifically to prove this by looking at the impact of the marches themselves using the Goldstein scale. 
 
 ### 2 (20 points)
 
-![image](image.png?raw=true)
+![image](C7Challenge2.png?raw=true)
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
+![image](C7Challenge3.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+I filtered my map to the US and the event code being "14" for protest, since it is a march. According to my map, the average Goldstein scale on New York for 9/21/2013 when the marches happened to 9/24/2014 is a 13 out of 20, which means a real score of 3 on the Goldstein scale. This means that the marches were estimated to not have a very large effect on climate policy. The good news is is that the change is a positive one.  
