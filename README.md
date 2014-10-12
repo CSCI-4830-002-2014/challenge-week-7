@@ -1,12 +1,10 @@
 # Name
 
-write-your-name
+Peyman Mortazavi
 
 # How many points have you earned?
 
-0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+100/100
 
 # How many hours have you spent on this?
 
@@ -36,7 +34,9 @@ fill-in-your-answer
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
-fill-in-your-answer
+When an event happened and where?
+
+Connecting frequency
 
 ### 3 (5 points)
 
@@ -52,12 +52,12 @@ fill-in-your-answer
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
-fill-in-your-answer
+Often, on public events or rumers, the events might not have a geo location.
 
 ## Challenges
 
 ### 1 (20 points)
-{{one-paragraph-discussion-of-your-answer}}
+We can visualize the average number of events regarding climate change and environment before and after each demonstration and see if the number of events regarding climate change increase. In GDELT data, we have events with their occurance date. We can simply filter out the non-climate change events to visualize what is described previously.
 
 ### 2 (20 points)
 
