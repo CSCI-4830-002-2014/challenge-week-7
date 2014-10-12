@@ -62,6 +62,5 @@ In order to prove if a march made an impact on the climate change legislation, w
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
-
-{{one-paragraph-discussion-of-your-answer}}
+![image](http://i.imgur.com/XYHfdeO.png)
+Yes, we certainly proved that the march had an impact worldwide. we proved this by not only showing a global map of locations for where environmental events (for actor 1) were located to be. In addition, I have a volume graph to show how many articles were published pertaining to the environment for actor 1. There was a ~500 article increase on September 23rd in comparison to September 17th or September 29th. Clearly there was publicity for this event in large volumes, so hopefully there was legislation change!
