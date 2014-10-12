@@ -12,8 +12,7 @@ Dawson Botsford
 fill-in-your-answer
 
 # What is the most difficult part about this week's challenge?
-
-fill-in-your-answer
+SWITCHING PARTITIONS. I hate that we have so many tools that are not completely compatable on all distros... So I had to switch back and forth from Linux to Windows 4 times since Tableau Desktop is not for Linux and my Node.js is all chill only on my Linux distro...
 
 # Show and tell (10 points)
 
@@ -37,24 +36,25 @@ Questions pertaining to events. We can answer "What day world events occurred" o
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/viD0loo.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/dkYPr1Q.png)
 
 ### 5a (5 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/d2u3RSx.png)
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
-
-fill-in-your-answer
+The most popular event 10 is a publicly made and recorded comment on the event. Which is not always associated with a location.
+The second most popular event is 20 and is a plea made on behalf of the actor. This is yet again not often associated to a location because it is a public event or rumor. Both events could occur through social media as well, which would certainly raise the likelihood of a "lack of location"
 
 ## Challenges
 
 ### 1 (20 points)
-{{one-paragraph-discussion-of-your-answer}}
+In order to prove if a march made an impact on the climate change legislation, we can get a sum of the amount of events pertaining to environmental change. Now we plot the sums of these articles by date. If there is an increase of events on the day of September 23rd, 2015, we have our problem solved. In order to get a good range, we will pick days to measure in the following pattern. ("/" gets no data analysis while "0" is a day for data analysis). This is the week of the event:
+0//0//0(event)//0//0
 
 ### 2 (20 points)
 
