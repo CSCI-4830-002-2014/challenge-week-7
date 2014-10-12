@@ -8,7 +8,7 @@ Dawson Botsford
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
-4
+5
 
 # What is the most difficult part about this week's challenge?
 SWITCHING PARTITIONS. I hate that we have so many tools that are not completely compatable on all distros... So I had to switch back and forth from Linux to Windows 4 times since Tableau Desktop is not for Linux and my Node.js is all chill only on my Linux distro...
