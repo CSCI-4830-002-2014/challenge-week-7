@@ -67,4 +67,4 @@ We can visualize the average number of events regarding climate change and envir
 
 ![image](image.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+As you can see, the number of articles about "Environment" has increased on the day of event and started to decrease back to where it was before the event afterwards.
