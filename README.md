@@ -61,10 +61,10 @@ Compare the number of events and the sum of their goldstein scale in the ENV cat
 
 ### 2 (20 points)
 
-![image](chal1.png?raw=true)
+![image](chal2.png?raw=true)
 
 ### 3 (20 points)
 
-![image](chal2.png?raw=true)
+![image](chal3.png?raw=true)
 
 I selected several data points comparing before and after the event. We can see that the number of articles skyrocketed the day after in the environmental category. As well, the average tone became higher after the marches. The most interesting point was the goldstein scale, which went way up after the march. I think that these are a good general answer, as we can definitely tell media stories went up after the environment, so I would say the marches had an impact.	
