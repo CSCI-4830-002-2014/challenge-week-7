@@ -40,15 +40,15 @@ What events are happening this week compared to last week? Are there any organiz
 
 ### 3 (5 points)
 
-![image](check2.png?raw=true)
+![image](check3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](check3.png?raw=true)
+![image](check4.png?raw=true)
 
 ### 5a (5 points)
 
-![image](check4.png?raw=true)
+![image](check5.png?raw=true)
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
