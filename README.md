@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Chris Wittenberg
 
 # How many points have you earned?
 
