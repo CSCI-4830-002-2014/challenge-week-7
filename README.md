@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Logan Bates
 
 # How many points have you earned?
 
-0/100
+40/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -32,27 +32,28 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](check1.png?raw=true)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
-fill-in-your-answer
+How do two global events with similar characteristics relate to eachother? 
+What types of events are distrubuted globally via the media? What types are neglected by the media?
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](check3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](check4.png?raw=true)
 
 ### 5a (5 points)
 
-![image](image.png?raw=true)
+![image](check5a.png?raw=true)
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
-fill-in-your-answer
+The two most missed events are 10 (Make statement, not specific below) and 42 (Make a visit). These events might not contain georgraphical information because they're listed as not specific. This could mean that the data is meant to be ambiguous, or information wasn't published with many details.
 
 ## Challenges
 
@@ -61,10 +62,10 @@ fill-in-your-answer
 
 ### 2 (20 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 {{one-paragraph-discussion-of-your-answer}}
