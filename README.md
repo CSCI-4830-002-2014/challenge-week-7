@@ -14,7 +14,7 @@ Michael Fyk
 
 # What is the most difficult part about this week's challenge?
 
-Writing the node.js script
+Identifying events related to the Climate Summit.
 
 # Show and tell (10 points)
 
@@ -57,7 +57,8 @@ The top four events that are missing data, non-specific appeal, non-specific mak
 ## Challenges
 
 ### 1 (20 points)
-The GDELT data
+
+In general, you can perform sentiment analysis on social data to find out general impressions of the UN Climate Summit. You can mark everyone that has been exposed to the protest, what their previous impressions were on "environment" keywords, and what they were at the time of the protest. You can then find out who has the most influence on the decisions separately through graph theory. You can measure the success then by weighting the amount of people who previously either did not post about the environment or posted negatively about it that now do based on their influence on decisions. In the case of the GDELT data, you could compare the amount of mentions and their tone over the days leading up to the event.
 
 ### 2 (20 points)
 
@@ -67,4 +68,4 @@ The GDELT data
 
 ![image](http://i.imgur.com/FeqmgsU.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+I did my analysis by filtering the data by the primary type code for ENV in an attempt to filter out unrelated events. I then plotted the events on a map with the size of circles indicating the number of mentions and green/red indicating the positive/negative tone of the mentions respectively. What I found was that although the number of mentions decreased leading up to the Climate Summit, they increased dramatically on the day of the Climate Summit and the tone switched from negative to positive.  
