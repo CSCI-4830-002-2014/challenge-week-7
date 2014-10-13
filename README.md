@@ -77,6 +77,13 @@ impact.
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge3.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+The data, which is filtered by `Actor1Code` so that it contains any event where that code
+ends with `ENV` is ploted for 6 days around the day of the event. The y-axis shows the
+number of events, and the color shows the average Goldstein index.
+
+The data indicates that on the day of the conference there was an increase of events with
+positive Goldstein scale index, but it is impossible to determine whether this is due to
+the demonstrations or the conference itself.
+
