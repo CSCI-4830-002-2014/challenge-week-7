@@ -4,27 +4,31 @@ Irfan Nadiadi
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-2.5
+3.5
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Nothing was too difficult, though it took me longer than expected to grasp the organization of the GDELT dataset.
 
 # Show and tell (10 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-using_data_to_solve_a_social_problem)
+[Extreme Event Detection in Online Social Media using Social Focus](https://sites.google.com/site/kddlesi2014/program/papers)
 
 ## Explain why you found the project interesting. (8 points)
 
-fill-in-your-answer
+Note: You will have to click the accepted papers link. This paper is on page 5.
+
+This was a paper presented at a KDD 2014 workshop focused on learning about emergencies from social information. Researchers were interested in using Twitter to identify focused discussion as it related to extreme events/emergencies. For example, researchers used the Twitter API to pull tweets around the time of Occupy Wall Street. Since Tweets can be geotagged, they were able to create heat maps showing increased Twitter activity using hashtags such as #OccupyWallStreet, which coincided with cases of police abuse, and particularly when the NYPD tried to remove protestors from Zucotti park.
+
+Social Media is a very versatile outlet, especially in the context of data science. It allows people to very rapidly communicate with each other, and when this data can be analyzed in real-time, powerful applications can be developed to have a positive social impact.
 
 # GDELT (I) (5 points x 6 + 20 points x 3 = 90 points)
 
