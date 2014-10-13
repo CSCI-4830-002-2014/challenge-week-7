@@ -67,6 +67,12 @@ The GDELT data can be helpful for this, as it can identify features such as ment
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
+![image](Challenges/Challenge\ 3.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+The Left plot shows sum of articles where the actor code was ENV, or relating to environment. Over the course of four days, it is observed that the number of relevant articles significantly increases on the day of the marches, indicating higher interest in environmental concerns.
+
+The center plot shows the goldstein index, and particularly a decreasing trend until the day of the marches, when the index takes a sharp turn and begins increasing.
+
+The right plot is not as descriptive as was desired, but it shows the number of records with event codes pertaining to policy changes or reform. For the three days beginning on the 23rd, there is a higher number of policy events than before the marches, though more data for days prior to the marches is necessary to draw a stronger conclusion.
+
+Given these three plots, the evidence suggests that the marches did have an overall positive impact. Plotting more data for days prior to and succeeding the marches could further support this conclusion.
