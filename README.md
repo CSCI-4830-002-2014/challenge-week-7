@@ -32,7 +32,7 @@ This whole country of Singapore is being used as a test for one of the largest s
 
 ### 1 (5 points)
 
-![image](images\CP1.png?raw=true)
+![image](images/CP1.png?raw=true)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
@@ -42,15 +42,15 @@ Do different countries cover different types of news more than other countries?
 
 ### 3 (5 points)
 
-![image](images\CP3.png?raw=true)
+![image](images/CP3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](images\CP4.png?raw=true)
+![image](images/CP4.png?raw=true)
 
 ### 5a (5 points)
 
-![image](images\CP5.png?raw=true)
+![image](images/CP5.png?raw=true)
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
@@ -63,9 +63,9 @@ Segregating the data into two sections is the obvious first step: into days befo
 
 ### 2 (20 points)
 
-![image](images\CH2.png?raw=true)
+![image](images/CH2.png?raw=true)
 
 ### 3 (20 points)
 
-![image](images\CH3.png?raw=true)
+![image](images/CH3.png?raw=true)
 
