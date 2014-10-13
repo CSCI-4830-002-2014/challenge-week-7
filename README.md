@@ -65,10 +65,10 @@ GDEL data, and examine the Goldstein scale to see if anything was affected by th
 
 ### 2 (20 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 I think that my findings could be useful for finding out this information but it would need to be further investegated to really understand what is going on here. 
