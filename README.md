@@ -30,7 +30,7 @@ It talks about the importance of data and how data nowadays is power.
 
 ### 1 (5 points)
 
-[Imgur](http://i.imgur.com/EYcOkJf.jpg)
+[image](http://i.imgur.com/EYcOkJf.jpg)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
