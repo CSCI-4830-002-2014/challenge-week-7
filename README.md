@@ -71,4 +71,4 @@ GDEL data, and examine the Goldstein scale to see if anything was affected by th
 
 ![image](image.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
+I think that my findings could be useful for finding out this information but it would need to be further investegated to really understand what is going on here. 
