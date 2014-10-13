@@ -30,7 +30,7 @@ It talks about the importance of data and how data nowadays is power.
 
 ### 1 (5 points)
 
-![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%207/chk1.png)
+![image](https://dl.dropboxusercontent.com/u/44502811/Big%20Data%20ScreenShots/Week%207/a.png)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
