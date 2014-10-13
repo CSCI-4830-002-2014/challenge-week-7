@@ -1,30 +1,30 @@
 # Name
 
-write-your-name
+Justin McBride
 
 # How many points have you earned?
 
-0/100
+80/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+2
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+It was all pretty straight-forward. 
 
 # Show and tell (10 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-using_data_to_solve_a_social_problem)
+[The Social Laboratory](http://www.foreignpolicy.com/articles/2014/07/29/the_social_laboratory_singapore_surveillance_state)
 
 ## Explain why you found the project interesting. (8 points)
 
-fill-in-your-answer
+This whole country of Singapore is being used as a test for one of the largest social and political revolutions that may ever happen. It's ridiculous.
 
 # GDELT (I) (5 points x 6 + 20 points x 3 = 90 points)
 
@@ -32,39 +32,40 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](images\CP1.png?raw=true)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
-fill-in-your-answer
+What types of news cause the largest outbreaks of media coverage?
+What types of titles get the most attention?
+Do different countries cover different types of news more than other countries?
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](images\CP3.png?raw=true)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](images\CP4.png?raw=true)
 
 ### 5a (5 points)
 
-![image](image.png?raw=true)
+![image](images\CP5.png?raw=true)
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
-fill-in-your-answer
+Some CAMEO codes were specifically vague on information between the two actors.
 
 ## Challenges
 
 ### 1 (20 points)
-{{one-paragraph-discussion-of-your-answer}}
+Segregating the data into two sections is the obvious first step: into days before the event, and then those events that on or after the day. Additionally, does the average distribution of event codes change drastically between those two data sections? Are there more peaceful events that take place, or more violent?
 
 ### 2 (20 points)
 
-![image](image.png?raw=true)
+![image](images\CH2.png?raw=true)
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
+![image](images\CH3.png?raw=true)
 
-{{one-paragraph-discussion-of-your-answer}}
