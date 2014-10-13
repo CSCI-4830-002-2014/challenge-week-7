@@ -4,13 +4,13 @@ Daniel Nolan
 
 # How many points have you earned?
 
-40/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+5
 
 # What is the most difficult part about this week's challenge?
 
@@ -57,14 +57,14 @@ Some geographic locations are given a specific eventId but not a given location 
 ## Challenges
 
 ### 1 (20 points)
-{{one-paragraph-discussion-of-your-answer}}
+To find the impact of this event, you would most likely track the eventId, identify it on the global map, and use the Goldstein scale to see if this caused more/less stability in that area of the US. Another method could be identifying the environment and climate before and after the march in New York. If the number of events increased in that time then we can assume that it caused a rise in activities around the event. 
 
 ### 2 (20 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/otzMSMC.png)
 
 ### 3 (20 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/Kd2tYnE.png)
 
-{{one-paragraph-discussion-of-your-answer}}
+After the September 23rd event, the number of articles rose along with the tone associated with the recorded movements. Weeks before the event there was a small amount of articles input. After the event, the number of articles input rose which shows that the September 23rd event led to a temporary rise in acitivity throughout the world the day after. September 24th shows the greatest day of article activity in this diagram. 
