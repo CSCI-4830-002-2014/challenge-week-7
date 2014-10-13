@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Irfan Nadiadi
 
 # How many points have you earned?
 
@@ -10,7 +10,7 @@ write-your-name
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+2.5
 
 # What is the most difficult part about this week's challenge?
 
@@ -32,36 +32,38 @@ fill-in-your-answer
 
 ### 1 (5 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/Check\ 1.png)
 
 ### 2 What types of questions do you think this database could provide insight into? (5 points)
 
-fill-in-your-answer
+The different CAMEO codes are very thorough in the types of events they can describe, so an obvious use of the data would be identifying locations around the world where conflict is prevalent. This database could also provide a good indicator of overall population happiness/conflict/cooperation around the world, as it relates to current events.
 
 ### 3 (5 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/Check\ 3.png)
 
 ### 4 (5 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/Check\ 4.png)
 
 ### 5a (5 points)
 
-![image](image.png?raw=true)
+![image](Checkpoints/Check\ 5.png)
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
-fill-in-your-answer
+The most popular events illustrated are for events described by "Make Statement", "Appeal", or "Make/Host a visit". These are likely missing geographic information because they are not highly location-sensitive events, and may have taken place where geographic data was unavailable, or where the data was entered incomplete.
 
 ## Challenges
 
 ### 1 (20 points)
-{{one-paragraph-discussion-of-your-answer}}
+
+To show that the marches made a difference at the summit, one would want to determine how often the marches were being mentioned on and after Sept. 23rd, and how many related policy changes occurred after Sept. 23rd. If there were many relevant policy changes shortly after Sept. 23rd, this would be a good indicator that the marches had a positive effect.
+The GDELT data can be helpful for this, as it can identify features such as mentions, policy changes, and goldstein scale following the marches.
 
 ### 2 (20 points)
 
-![image](image.png?raw=true)
+![image](Challenges/Challenge\ 2.png)
 
 ### 3 (20 points)
 
