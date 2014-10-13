@@ -78,8 +78,8 @@ A challenge that could arise would be differentiating between the impact of the 
 ![image](c3.png?raw=true)
 
 Unfortunately, I’m still unable to get the fields working for Tableau!  However, here are three comparisons that I would make to find correlations:
-# Location and sum of environment-related event code (is there an increase near New York?)
-# Change of tone for environment-related event code
-# Change in protest-related event code
-# These event codes’ relationship with the Goldstein scale
+1. Location and sum of environment-related event code (is there an increase near New York?)
+2. Change of tone for environment-related event code
+3. Change in protest-related event code
+4. These event codes’ relationship with the Goldstein scale
 Yes, I do think these could be useful in determining if the marches had an impact.  By comparing various results, we can get an even more comprehensive picture of the effectiveness of the protests.
