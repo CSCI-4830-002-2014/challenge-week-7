@@ -8,21 +8,21 @@ Peyman Mortazavi
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4hrs
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I think difficulty was evenly distributed.
 
 # Show and tell (10 points)
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-using_data_to_solve_a_social_problem)
+[Harness data to solve social problems](http://www.builtinchicago.org/blog/uchicago-fellows-harness-data-solve-social-problems)
 
 ## Explain why you found the project interesting. (8 points)
 
-fill-in-your-answer
+It talks about the importance of data and how data nowadays is power.
 
 # GDELT (I) (5 points x 6 + 20 points x 3 = 90 points)
 
