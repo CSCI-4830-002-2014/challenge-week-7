@@ -38,9 +38,9 @@ Law enforcement agencies expect that, with this change, they will be able to bet
 
 This database seems like it would be a fantastic tool for supporting sociological hypotheses.  Since the data is comprised of “print, broadcast, and web formats, in over 100 languages” since 1979, we have data that supports comparisons of opinion and expression across culture and time.  Some questions that may be of interest to users of this data are:
 
-# How does the geographic and demographic information of internet users generally evolve over time?
-# What are different nationalities’ responses to various crises.
-# Can we identify communication between different actors?
+1. How does the geographic and demographic information of internet users generally evolve over time?
+2. What are different nationalities’ responses to various crises.
+3. Can we identify communication between different actors?
 
 ### 3 (5 points)
 
