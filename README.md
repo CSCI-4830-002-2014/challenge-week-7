@@ -56,9 +56,7 @@ This database seems like it would be a fantastic tool for supporting sociologica
 
 ### 5b Do you have any thoughts on why these events are missing geographic information? (5 points)
 
-My data set seems to be missing a lot of data points because Tableau is misinterpreting the data that I’m putting in (despite many attempts to fix!).
-
-According to the site, the CAMEO event code data is a “collection of more than 300 types of events organized into a hierarchical taxonomy and recorded in the files as a numeric code”.  This data is likely missing geographic information because the geography cannot be deduced from the content. 
+According to the site, the CAMEO event code data is a “collection of more than 300 types of events organized into a hierarchical taxonomy and recorded in the files as a numeric code”.  This data is likely missing geographic information because the geography cannot be deduced from the content or is was incorrectly inserted into the database.
 
 ## Challenges
 
