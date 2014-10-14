@@ -4,17 +4,17 @@ Alexia Newgord
 
 # How many points have you earned?
 
-60/100?
+100/100 (minus late penalty)
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-5.5
+6.5
 
 # What is the most difficult part about this week's challenge?
 
-I couldn’t get my data working on Tableau :(
+I initially couldn’t get my data working on Tableau.  Turns out that my use of Excel to view the data was causing the format to be saved in a problematic format.
 
 # Show and tell (10 points)
 
@@ -65,9 +65,9 @@ According to the site, the CAMEO event code data is a “collection of more than
 ## Challenges
 
 ### 1 (20 points)
-To “prove” that a the climate marches had some sort of impact, we would primarily want to investigate the social responses on and around the time of the protests.  For example, we could see how communication changed on September 23 by looking at event codes and the geographic proximity to the protests.
+To “prove” that a the climate marches had some sort of impact, we would primarily want to investigate the social responses on and around the time of the protests with an event code of “PROTEST” or similar.  We could also see how communication changed on September 23 by looking at event codes and the geographic proximity to the protests.
 
-A challenge that could arise would be differentiating between the impact of the protests and the impact of the UN Climate Summit event itself, but hopefully we can use ML techniques to determine the tone and/or opinion of the authors.
+A challenge that could arise would be differentiating between the impact of the protests and the impact of the UN Climate Summit event itself, but hopefully we can use event codes to help filter this.
 
 ### 2 (20 points)
 
@@ -77,9 +77,4 @@ A challenge that could arise would be differentiating between the impact of the 
 
 ![image](c3.png?raw=true)
 
-Unfortunately, I’m still unable to get the fields working for Tableau!  However, here are three comparisons that I would make to find correlations:
-1. Location and sum of environment-related event code (is there an increase near New York?)
-2. Change of tone for environment-related event code
-3. Change in protest-related event code
-4. These event codes’ relationship with the Goldstein scale
-Yes, I do think these could be useful in determining if the marches had an impact.  By comparing various results, we can get an even more comprehensive picture of the effectiveness of the protests.
+I do think that this could be useful in determining if the marches had an impact, but “prove” is a strong word.  This data can support the case that the marches had an impact (you can see the evolution of protests and related media grew substantially on the 23rd), but it is by no means scientific data because of the many possible variables.
