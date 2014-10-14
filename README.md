@@ -12,7 +12,7 @@ Alexia Newgord
 
 # What is the most difficult part about this week's challenge?
 
-I initially couldn’t get my data working on Tableau.  Turns out that my use of Excel to view the data was causing the format to be saved in a problematic format.
+I initially couldn’t get my data working on Tableau.  After to speaking with Chris in class, it turned out that my use of Excel to view the data was corrupting the formatting.
 
 # Show and tell (10 points)
 
