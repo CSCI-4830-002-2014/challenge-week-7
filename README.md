@@ -6,8 +6,6 @@ Alexia Newgord
 
 100/100 (minus late penalty)
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
-
 # How many hours have you spent on this?
 
 6.5
